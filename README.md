@@ -1,2 +1,2 @@
 # mangos-build
-Docker Build Environment for MaNGOS
+Build Environment for MaNGOS in Docker
